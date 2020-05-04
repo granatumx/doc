@@ -9,4 +9,3 @@ docker-push:
 
 doc:
 	./gendoc.sh
-	mv README.go.md README.md
