@@ -1,2 +1,2 @@
-# doc
-GranatumX doc allows easy running of doconce toolchain
+Test that this compiles.
+
