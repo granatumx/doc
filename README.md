@@ -15,4 +15,3 @@ Generally a script is provided named `gendoc.sh` which executes an exposed bash 
 from the `scripts` module. This script copies the `.do.txt` file to the `doc` container and executes `doconce`.
 The result is copied back into the directory.
 
-
